@@ -1,0 +1,4 @@
+*.o
+hwmon
+tests/test_cpu_stat
+tests/test_mem_stat
