@@ -1,6 +1,6 @@
 # hwmon
 
-A command-line tool for real-time monitoring of CPU usage, RAM usage,
+A command-line tool for real-time monitoring of CPU, GPU and RAM usage,
 and hardware temperatures on Linux, with color-coded ANSI bars right in
 the terminal.
 
